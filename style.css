@@ -1,0 +1,23 @@
+
+@font-face {
+    font-family: 'MyWebFont';
+    src: url("https://fonts.google.com/specimen/Yanone+Kaffeesatz?subset=cyrillic");
+    font-weight: normal;
+    font-style: normal;
+}
+
+p{
+  color: #800000;
+}
+ h1{
+   color: #800080;
+ }
+p{
+  font-style: oblique;
+font-size: 156;
+}
+
+
+p, h1 {
+color: #3ae6ca;
+}
