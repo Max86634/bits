@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+
+  	<!--- Basic Page Needs
+   	================================================== -->
+   	<meta charset="utf-8">
+	<title>Sparrow Template Preview | StyleShout.com</title>
+	<meta name="description" content="A collection of simple, clean, brilliantly crafted free HTML website templates.">
+   	<meta name="keywords" content="html, css, responsive, simple, clean, minimalist, site template, website template, free, download">
+
+    <!-- Mobile Specific Metas
+    ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- Font
+    ================================================== -->
+	<link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+
+	<!-- CSS
+    ================================================== -->
+	<link rel="stylesheet" href="css/styles.css">
+
+   	<!-- Script
+   	================================================== -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1061610-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1061610-1');
+</script>
+	   	
+   
+	<!-- favicons
+    ================================================== -->
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+
+</head>
+
+<body>
+
+	<!-- switcher
+	================================================== -->
+   	<div id="switcher">
+
+	   	<ul>
+         	<li class="switcher__left">         		
+			   	<div class="switcher__cta">
+			   		<a href="https://www.dreamhost.com/r.cgi?287326" title="Fast Reliable Web Hosting">Need Web Hosting?</a>               
+            	</div>
+			</li>
+         	<li class="switcher__right">
+            	<a href="https://www.styleshout.com/free-templates/sparrow/" class="switcher__download" title="Website Template Details and Download">
+            		<span>Details &amp; Download</span>
+            	</a>
+            	<div class="switcher__sep"><span></span></div>
+				<a href="https://www.styleshout.com/templates/preview/Sparrow101/" class="switcher__close" title="Remove frame">
+					Remove Frame
+				</a>
+			</li>
+      	</ul>
+
+   	</div> <!-- end switcher -->  	
+
+
+   	<!-- ads
+   	================================================== -->
+   	<div id="ad-block">
+
+                
+        <a href="https://www.dreamhost.com/r.cgi?287326" class="ad-block__thumb">
+            <img src="ad_thumb.jpg" alt="">
+        </a>    
+
+        <div class="ad-block__text">
+            <a href="https://www.dreamhost.com/r.cgi?287326">
+                <span class="highlight">Host your websites for as low as $2.59/Month!</span>
+                Affordable, reliable, powerful web and Wordpress hosting. Guaranteed.
+
+                <span class="sponsor-text">
+                    Sponsored
+                </span>
+            </a>
+        </div>
+        
+        <a href="#" class="ad-block__close" title="Close Ad">Close</a>
+
+    </div> <!-- end ad-block -->
+   
+
+   	<!-- iFrame
+   	================================================== -->
+   	<div id="iframe-wrap" class="desktop-resize">
+		<iframe id="iframe" src="https://www.styleshout.com/templates/preview/Sparrow101/" frameborder="0" width="100%" height="590px"></iframe>
+	</div>
+
+
+   	<!-- Java Script
+   	================================================== -->
+   	<script src="js/init.js"></script>
+
+
+</body>
+</html>
